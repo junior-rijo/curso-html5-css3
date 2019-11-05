@@ -1,0 +1,30 @@
+body {
+background-color: rgb(255, 255,255);
+text-align: justify;
+margin-left: center;
+margin-right: center;
+}
+header {
+    margin-top: 50px;
+}
+
+h1 {
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2  {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p {
+    font-size: 18px;
+}
+
+footer{
+    margin-bottom: 30px;
+}
+
+.img_padrao {
+    margin-bottom: 20px;
+    width: 300px;
+}
